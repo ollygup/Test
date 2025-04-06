@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Application.deps.json
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Application.dll
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Application.pdb
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Core.dll
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Infrastructure.dll
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Infrastructure.pdb
+C:\Users\User\source\repos\Test\Test.Application\bin\Debug\net6.0\Test.Core.pdb
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.App.60018A54.Up2Date
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.dll
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\refint\Test.Application.dll
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\Test.Application.pdb
+C:\Users\User\source\repos\Test\Test.Application\obj\Debug\net6.0\ref\Test.Application.dll
