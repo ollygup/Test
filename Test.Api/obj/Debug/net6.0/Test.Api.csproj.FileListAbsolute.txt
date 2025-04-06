@@ -31,6 +31,7 @@ C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\Test.Api.AssemblyInfo.
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\Test.Api.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\Test.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\Test.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\Test.Api.sourcelink.json
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\User\source\repos\Test\Test.Api\obj\Debug\net6.0\staticwebassets\msbuild.Test.Api.Microsoft.AspNetCore.StaticWebAssets.props

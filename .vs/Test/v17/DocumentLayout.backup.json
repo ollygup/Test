@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|c:\\users\\user\\source\\repos\\test\\test.core\\domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|c:\\users\\user\\source\\repos\\test\\test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|c:\\users\\user\\source\\repos\\test\\test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|c:\\users\\user\\source\\repos\\test\\test.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|c:\\users\\user\\source\\repos\\test\\test.core\\irepository\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\irepository\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|c:\\users\\user\\source\\repos\\test\\test.core\\domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E1AAF8-C621-45A8-89FB-08F3F8884F09}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F1535A3-1EFA-482C-B1BB-A2C839D0CBCA}|Test.Application\\Test.Application.csproj|c:\\users\\user\\source\\repos\\test\\test.application\\validator\\item\\itemdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|c:\\users\\user\\source\\repos\\test\\test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F1535A3-1EFA-482C-B1BB-A2C839D0CBCA}|Test.Application\\Test.Application.csproj|c:\\users\\user\\source\\repos\\test\\test.application\\service\\iservice\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1535A3-1EFA-482C-B1BB-A2C839D0CBCA}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\service\\iservice\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -92,10 +96,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F1535A3-1EFA-482C-B1BB-A2C839D0CBCA}|Test.Application\\Test.Application.csproj|c:\\users\\user\\source\\repos\\test\\test.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1535A3-1EFA-482C-B1BB-A2C839D0CBCA}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|c:\\users\\user\\source\\repos\\test\\test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{23795239-2D20-42B8-9543-887EB2E86CB3}|Test.Api\\Test.Api.csproj|solutionrelative:test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,20 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TransactionInputDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs",
               "RelativeDocumentMoniker": "Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs*",
-              "RelativeToolTip": "Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs",
+              "RelativeToolTip": "Test.Application\\Validator\\Transaction\\TransactionInputDTOValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDMAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T04:45:23.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ItemDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Validator\\Item\\ItemDTOValidator.cs",
               "RelativeDocumentMoniker": "Test.Application\\Validator\\Item\\ItemDTOValidator.cs",
@@ -142,12 +142,11 @@
               "RelativeToolTip": "Test.Application\\Validator\\Item\\ItemDTOValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T04:44:08.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T04:44:08.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Log4NetConfig.xml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Infrastructure\\Logging\\Log4NetConfig.xml",
               "RelativeDocumentMoniker": "Test.Infrastructure\\Logging\\Log4NetConfig.xml",
@@ -155,12 +154,11 @@
               "RelativeToolTip": "Test.Infrastructure\\Logging\\Log4NetConfig.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-04-05T16:10:29.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T16:10:29.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RequestLogMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Infrastructure\\Middleware\\RequestLogMiddleware.cs",
               "RelativeDocumentMoniker": "Test.Infrastructure\\Middleware\\RequestLogMiddleware.cs",
@@ -168,12 +166,11 @@
               "RelativeToolTip": "Test.Infrastructure\\Middleware\\RequestLogMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T16:02:46.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T16:02:46.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Test.Api\\Properties\\launchSettings.json",
@@ -181,12 +178,11 @@
               "RelativeToolTip": "Test.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T13:59:15.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T13:59:15.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
@@ -194,12 +190,11 @@
               "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "ViewState": "AgIAAMYAAAAAAAAAAAAEwNYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-05T13:26:30.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T13:26:30.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IPartnerRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Core\\IRepository\\IPartnerRepository.cs",
               "RelativeDocumentMoniker": "Test.Core\\IRepository\\IPartnerRepository.cs",
@@ -207,12 +202,11 @@
               "RelativeToolTip": "Test.Core\\IRepository\\IPartnerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:17:26.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T12:17:26.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "PartnerRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Infrastructure\\Repository\\PartnerRepository.cs",
               "RelativeDocumentMoniker": "Test.Infrastructure\\Repository\\PartnerRepository.cs",
@@ -220,12 +214,11 @@
               "RelativeToolTip": "Test.Infrastructure\\Repository\\PartnerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:10:57.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T12:10:57.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Partner.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Core\\Domain\\Partner.cs",
               "RelativeDocumentMoniker": "Test.Core\\Domain\\Partner.cs",
@@ -238,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HashHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Helper\\HashHelper.cs",
               "RelativeDocumentMoniker": "Test.Application\\Helper\\HashHelper.cs",
@@ -246,12 +239,11 @@
               "RelativeToolTip": "Test.Application\\Helper\\HashHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T11:06:27.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T11:06:27.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DecodingHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Helper\\DecodingHelper.cs",
               "RelativeDocumentMoniker": "Test.Application\\Helper\\DecodingHelper.cs",
@@ -259,12 +251,11 @@
               "RelativeToolTip": "Test.Application\\Helper\\DecodingHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:25:09.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T09:25:09.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BaseResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\BaseResponse\\BaseResponseDTO.cs",
               "RelativeDocumentMoniker": "Test.Application\\DTO\\BaseResponse\\BaseResponseDTO.cs",
@@ -272,12 +263,11 @@
               "RelativeToolTip": "Test.Application\\DTO\\BaseResponse\\BaseResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:01:21.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T09:01:21.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Test.Api\\appsettings.json",
@@ -285,12 +275,11 @@
               "RelativeToolTip": "Test.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T08:38:03.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:38:03.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Service\\IService\\ITransactionService.cs",
               "RelativeDocumentMoniker": "Test.Application\\Service\\IService\\ITransactionService.cs",
@@ -298,12 +287,11 @@
               "RelativeToolTip": "Test.Application\\Service\\IService\\ITransactionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:33:52.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:33:52.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Service\\TransactionService.cs",
               "RelativeDocumentMoniker": "Test.Application\\Service\\TransactionService.cs",
@@ -311,12 +299,11 @@
               "RelativeToolTip": "Test.Application\\Service\\TransactionService.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAwJ4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:33:35.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:33:35.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EncodingHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Helper\\EncodingHelper.cs",
               "RelativeDocumentMoniker": "Test.Application\\Helper\\EncodingHelper.cs",
@@ -324,38 +311,37 @@
               "RelativeToolTip": "Test.Application\\Helper\\EncodingHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:12:26.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:12:26.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Test.Api\\Dockerfile",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Dockerfile",
               "RelativeToolTip": "Test.Api\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-05T07:19:01.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Program.cs",
               "RelativeDocumentMoniker": "Test.Api\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Program.cs",
               "RelativeToolTip": "Test.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T07:19:19.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Test.Api\\Controllers\\TransactionController.cs",
@@ -363,25 +349,23 @@
               "RelativeToolTip": "Test.Api\\Controllers\\TransactionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:19:17.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:19:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Item\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "Test.Application\\DTO\\Item\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Item\\ItemDTO.cs",
+              "RelativeToolTip": "Test.Application\\DTO\\Item\\ItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:47:59.498Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ItemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Item\\ItemDTO.cs",
-              "RelativeDocumentMoniker": "Test.Application\\DTO\\Item\\ItemDTO.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Item\\ItemDTO.cs*",
-              "RelativeToolTip": "Test.Application\\DTO\\Item\\ItemDTO.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:47:59.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "TransactionOutputDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Transaction\\TransactionOutputDTO.cs",
               "RelativeDocumentMoniker": "Test.Application\\DTO\\Transaction\\TransactionOutputDTO.cs",
@@ -389,12 +373,11 @@
               "RelativeToolTip": "Test.Application\\DTO\\Transaction\\TransactionOutputDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:29:15.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T04:29:15.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TransactionInputDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\DTO\\Transaction\\TransactionInputDTO.cs",
               "RelativeDocumentMoniker": "Test.Application\\DTO\\Transaction\\TransactionInputDTO.cs",
@@ -402,25 +385,24 @@
               "RelativeToolTip": "Test.Application\\DTO\\Transaction\\TransactionInputDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:28:53.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T04:28:53.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 1,
               "Title": "Test.Api.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Test.Api.csproj",
               "RelativeDocumentMoniker": "Test.Api\\Test.Api.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\Test.Api\\Test.Api.csproj",
               "RelativeToolTip": "Test.Api\\Test.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-04T16:38:38.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\Test.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Test.Application\\Class1.cs",
@@ -428,8 +410,7 @@
               "RelativeToolTip": "Test.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T16:18:03.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T16:18:03.377Z"
             }
           ]
         }
