@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using log4net;
+using Microsoft.AspNetCore.Http;
 using System.Text;
 using System.Text.Json;
 
@@ -6,6 +7,8 @@ namespace Test.Infrastructure.Middleware
 {
     public class RequestLogMiddleware : IMiddleware
     {
+        private static readonly ILog log = LogManager.GetLogger(typeof(RequestLogMiddleware));
+
         public async Task InvokeAsync(HttpContext context, RequestDelegate next)
         {
             var logMessage = new StringBuilder();
@@ -67,28 +70,10 @@ namespace Test.Infrastructure.Middleware
             logMessage.AppendLine("Response Body:");
             logMessage.AppendLine(responseBody);
 
+            log.Info(logMessage.ToString());
+
             // Reset the response body stream position before copying
             responseBodyStream.Seek(0, SeekOrigin.Begin);
-
-            // Log to file
-            string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
-            string logFolderPath = Path.Combine(currentDirectory, "log");
-
-            if (!Directory.Exists(logFolderPath))
-            {
-                Directory.CreateDirectory(logFolderPath);
-            }
-
-            string logFilePath = Path.Combine(logFolderPath, "log.txt");
-
-            if (!File.Exists(logFilePath))
-            {
-                using (var fileStream = File.Create(logFilePath)) { }
-            }
-
-            // Append log message to log.txt
-            await File.AppendAllTextAsync(logFilePath, logMessage.ToString());
-
             await responseBodyStream.CopyToAsync(originalResponseBodyStream);
         }
 

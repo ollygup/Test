@@ -7,12 +7,14 @@ using Test.Application.Services.IServices;
 using Test.Application.Validator.Item;
 using Test.Application.Validator.Transaction;
 using Test.Core.IRepository;
+using Test.Infrastructure.Logging;
 using Test.Infrastructure.Middleware;
 using Test.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
-XmlConfigurator.Configure(new FileInfo("log4net.config"));
+// Log4Net
+Logger.ConfigureLogging();
 
 builder.Services.AddTransient<RequestLogMiddleware>();
 

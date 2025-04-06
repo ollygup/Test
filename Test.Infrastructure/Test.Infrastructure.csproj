@@ -15,4 +15,10 @@
     <ProjectReference Include="..\Test.Core\Test.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Logging\Log4Net.Config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
